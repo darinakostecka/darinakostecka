@@ -8,7 +8,7 @@
 <li>💻 Cloud & Automation Engineer</li>
 <li>📫 How to reach me: darina.kostecka@pinely.eu</li>
 </ul>
-
+<br>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
